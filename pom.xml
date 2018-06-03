@@ -3,7 +3,7 @@
 
 	<groupId>org.jzy3d</groupId>
 	<artifactId>jzy3d-master</artifactId>
-	<version>1.0.3-SNAPSHOT</version>
+	<version>1.1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Jzy3d Master Project</name>
@@ -47,7 +47,7 @@
 		<module>jzy3d-api</module>
 		<module>jzy3d-tester</module>
 		<module>jzy3d-depthpeeling</module>
-		<module>jzy3d-javafx</module>
+		<!--<module>jzy3d-javafx</module>-->
 		<module>jzy3d-jdt-core</module>
 		<module>jzy3d-svm-mapper</module>
 		<module>jzy3d-swt</module>
